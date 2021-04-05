@@ -14,4 +14,4 @@
 
 ### Thank You
 * By Theiz Andatu
-* With follow Intructions on this Tutorial [YouTube](https://www.youtube.com/watch?v=aQak27DrAMw)
+* With follow Guide on this Tutorial [YouTube](https://www.youtube.com/watch?v=aQak27DrAMw)
