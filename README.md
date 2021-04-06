@@ -13,5 +13,5 @@
 * open your browser and typing _localhost:8000_
 
 ### Thank You
-* By Theiz Andatu
+* By Theis Andatu
 * With follow Guide on this Tutorial [YouTube](https://www.youtube.com/watch?v=aQak27DrAMw)
